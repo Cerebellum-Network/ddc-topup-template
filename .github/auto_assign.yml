@@ -1,0 +1,10 @@
+addReviewers: true
+addAssignees: author
+reviewers:
+  - MRamanenkau
+  - aie0
+  - yahortsaryk
+  - ayushmishra2005
+skipKeywords:
+  - wip
+numberOfReviewers: 1
