@@ -1,3 +1,12 @@
+
+<div align="center">
+  <img src="./img.png" align="left" width="100" height="100">
+  <img src="./img_1.png" align="right" width="100" height="100">
+
+  <h1>Cere <> School 42 Hackathon</h1>
+</div>
+
+<br><br><br>
 # 🚀 Quick Start Guide for Track 2: Automated DDC Account Top-Up System
 
 This guide will help you get started with developing the **Automated DDC Account Top-Up System** for the hackathon. Follow the steps below to set up your environment, understand the deliverables, and begin contributing.
